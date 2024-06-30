@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/career-guidance/static/css/main.f5969e8a.css",
+    "main.js": "/career-guidance/static/js/main.45d5ed40.js",
+    "static/js/453.778ddf7b.chunk.js": "/career-guidance/static/js/453.778ddf7b.chunk.js",
+    "static/media/g3.gif": "/career-guidance/static/media/g3.7c1d4e36c80066b31387.gif",
+    "static/media/g2.gif": "/career-guidance/static/media/g2.eb1641157bffd7912522.gif",
+    "static/media/Machina.gif": "/career-guidance/static/media/Machina.a501ff523d230ca8aead.gif",
+    "static/media/a1_2-removebg-preview.png": "/career-guidance/static/media/a1_2-removebg-preview.75abe27c4af18fcbd3f9.png",
+    "static/media/logo3.png": "/career-guidance/static/media/logo3.f494c1e21cb76dca0af0.png",
+    "static/media/ai6.png": "/career-guidance/static/media/ai6.434778a8ee0753145d4f.png",
+    "static/media/ai 1.jpg": "/career-guidance/static/media/ai 1.8809336b95f1895bdd4a.jpg",
+    "static/media/a15.jpg": "/career-guidance/static/media/a15.929507177f981c6da7fb.jpg",
+    "static/media/te.jpeg": "/career-guidance/static/media/te.bcdc8c0b51972df13252.jpeg",
+    "static/media/Samsung.jpeg": "/career-guidance/static/media/Samsung.da4139f58590348941b7.jpeg",
+    "static/media/Nike.jpeg": "/career-guidance/static/media/Nike.f2a56f961df89490eecb.jpeg",
+    "static/media/airhub.jpeg": "/career-guidance/static/media/airhub.0d3bf23ea567d6428460.jpeg",
+    "static/media/Wix.jpeg": "/career-guidance/static/media/Wix.7c9cc83311f47a7135f8.jpeg",
+    "static/media/poco.jpeg": "/career-guidance/static/media/poco.ccc96b72dc84c8d88516.jpeg",
+    "static/media/google.jpeg": "/career-guidance/static/media/google.366395663f6845f11c36.jpeg",
+    "index.html": "/career-guidance/index.html",
+    "main.f5969e8a.css.map": "/career-guidance/static/css/main.f5969e8a.css.map",
+    "main.45d5ed40.js.map": "/career-guidance/static/js/main.45d5ed40.js.map",
+    "453.778ddf7b.chunk.js.map": "/career-guidance/static/js/453.778ddf7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5969e8a.css",
+    "static/js/main.45d5ed40.js"
+  ]
+}
