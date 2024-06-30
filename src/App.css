@@ -1,0 +1,53 @@
+@import 'animate.css';
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+body{
+  font-family: "Josefin Sans", sans-serif;
+  /* font-optical-sizing: auto;
+  font-weight:1000px;
+  font-style: normal; */
+
+}
+nav{
+  z-index: 10001 !important;
+}
+.gradientBg{
+  /* (99deg,#5961F9 0%,#f374e6 100%) */
+  /* background: linear-gradient(99deg, rgb(0,4,26) 0%,rgb(0,4,26) 100%);  */
+  background: linear-gradient(99deg, #f374e6 0%,#5961F9 100%); 
+}
+.gradientBg2{
+  background: linear-gradient(99deg,rgb(223,220,255) 0%,rgb(190,194,222)100%);
+}
+.cursive{
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.title1{
+  font-family: "Tenor Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.title2{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.li{
+  margin: 10px;
+}
+.pp{
+ /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s;
+}
+.ppp{
+  animation-duration: 5s;
+}
+
+.ppppp{
+  animation-duration: 10s;
+}
+
+
+
